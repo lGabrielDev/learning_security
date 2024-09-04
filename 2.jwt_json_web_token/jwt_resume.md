@@ -1,4 +1,10 @@
+************** PRECISA FINALIZAR *******************
+
 # JWT - JSON Web Token
+
+
+
+
 ## Diferenca entre authentication and authorization
 
 - Authentication --> Verifica se as credenciais informadas estão corretas e existem no banco de dados.
@@ -112,7 +118,6 @@ Aqui vamos ter todos os methods relacionados ao token, como por exemplo:
 
 var token = new UsernamePasswordAuthenticationToken(usuarioINformadoNoBody, senhaInformadoNoBody)
 var autenticaaoQUeVamosUser = this.authentication.authenticate();
-
 
 
 
